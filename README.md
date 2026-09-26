@@ -1,1 +1,2 @@
-Commit A 
+Commit A
+Commit B 
