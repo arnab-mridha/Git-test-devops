@@ -1,2 +1,4 @@
 Commit A
-Commit B 
+Commit B
+
+Commit D 
